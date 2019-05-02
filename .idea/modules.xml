@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyInApp.iml" filepath="$PROJECT_DIR$/MyInApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Project Android\demo\MyInApp\subscriptionslib\inapplib.iml" filepath="D:\Project Android\demo\MyInApp\subscriptionslib\inapplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscriptionslib/subscriptionslib.iml" filepath="$PROJECT_DIR$/subscriptionslib/subscriptionslib.iml" />
+    </modules>
+  </component>
+</project>
